@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@rails/webpacker": "5.1.1",
+    "axios": "^0.19.2",
+    "bootstrap-vue": "^2.16.0",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.3",
+    "vue-router": "^3.0.6",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
