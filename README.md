@@ -1,4 +1,4 @@
-# CRUD EVICULOS
+# CRUD VEICULOS
 
 Simples crud de veiculos com Ruby on Rails e vuejs
 
